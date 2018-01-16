@@ -1,4 +1,4 @@
-# bisness ideas
+# business ideas
 Записываем свои мысли
 # backend ideas
 
