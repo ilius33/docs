@@ -26,7 +26,7 @@
     > **id** (int)  
     > **currency_id** (int) - *кошелек с которым производится соотношение RUB\USD, USD\BTC*  
     > **name** (nvarchar)[50] - *название валюты*  
-    > **value** (float) - *курс валюты по отношению к **currency_id** RUB\USD = 55.78, USD\BTC=11000*
+    > **value** (float) - *курс валюты по отношению к **currency_id** USD\RUB = 55.78, BTC\USD = 11000*
     
 - **sections** - *список разделов для операций*
 
